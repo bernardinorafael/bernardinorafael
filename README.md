@@ -6,8 +6,8 @@
 ##
 <div>
   <a href="https://github.com/bernardinorafael">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=bernardinorafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardinorafael&layout=compact&langs_count=7&theme=monokai" />
+  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=bernardinorafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardinorafael&layout=compact&langs_count=7&theme=monokai" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
