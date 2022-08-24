@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Rafael
+# Hi! My nam... I think you've read it in the bio😁
 ###
 📚 <strong>Graduating in Systems Analysis and and studying Ignite at Rocketseat.<br>
   ###
