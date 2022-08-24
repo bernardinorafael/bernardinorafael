@@ -5,8 +5,8 @@
 🚀 My goal is to continually evolve as a person and professional!! Always applying best practices in the development of technological solutions, creating scalable and safe uses using Tech design standards.</strong>
 ##
 <a href="https://github.com/bernardinorafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernardinorafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardinorafael&layout=compact&langs_count=8&theme=monokai"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernardinorafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardinorafael&layout=compact&langs_count=8&theme=monokai"/>
 <div style="display: inline_block"><br>
   <h3>Check out my main technologies below ⬇️</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
