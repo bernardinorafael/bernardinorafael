@@ -4,7 +4,7 @@
   ###
 🚀 My goal is to continually evolve as a person and professional!! Always applying best practices in the development of technological solutions, creating scalable and safe uses using Tech design standards.</strong>
 ##
-<div>
+<div  align="center"> 
   <a href="https://github.com/bernardinorafael">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=bernardinorafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardinorafael&layout=compact&langs_count=7&theme=monokai" />
